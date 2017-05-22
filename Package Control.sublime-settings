@@ -1,16 +1,33 @@
 {
-  "installed_packages":
-  [
-    "AdvancedNewFile",
-    "All Autocomplete",
-    "ApplySyntax",
-    "BracketHighlighter",
-    "Emmet",
-    "Git",
-    "GitGutter",
-    "JSX",
-    "Package Control",
-    "SCSS",
-    "ERB Snippets"
-  ]
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"ApplySyntax",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"ERB Autocomplete",
+		"ERB Snippets",
+		"Git",
+		"GitGutter",
+		"JSX",
+		"Materialize",
+		"Package Control",
+		"Predawn",
+		"SCSS",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SublimeERB",
+		"SublimeLinter",
+		"SublimeLinter-contrib-sublime-syntax",
+		"SublimeLinter-rubocop",
+		"SublimeLinter-ruby",
+		"Themr"
+	]
 }
